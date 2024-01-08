@@ -55,3 +55,35 @@ test('Registration', async ({ page }) => {
 
 });
 
+
+
+// A nodemodule call playwright was used to write this test case for browser automation.The purpose of the test case is to evaluate the "https://onlinelibrary.wiley.com/" website's registration feature
+
+//Test Name:  Registration
+
+
+// Test Steps
+//  Test Step: 1. Navigate to https://onlinelibrary.wiley.com/
+//  Test Step: 2. Click on the sign in button
+//  Test Step: 3. Click on the new user button
+//  Test Step: 4. Wait for the page to load
+//  Test Step: 5. Enter the email address
+//  Test Step: 6. Enter the password
+//  Test Step: 7. Enter the first name
+//  Test Step: 8. Enter the last name
+//  Test Step: 9. Enter the country
+//  Test Step: 10. Enter the area of interest
+//  Test Step: 11. Check the terms and conditions checkbox
+//  Test Step: 12. Check the marketing email checkbox
+//  Test Step: 13. Click on the recaptcha checkbox
+//  Test Step: 14. Wait for the recaptcha checkbox to be checked
+//  Test Step: 15. Click on the submit button
+//  Test Step: 16. Wait for the page to load
+//  Test Step: 17. Verify that the URL is https://onlinelibrary.wiley.com/dashboard
+
+//purpose
+
+// The purpose of this test case is to evaluate the "https://onlinelibrary.wiley.com/" website's registration feature
+// The test case verifies that the registration feature is working as expected by checking the URL after the registration is performed
+
+
